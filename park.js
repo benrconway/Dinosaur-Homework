@@ -33,10 +33,7 @@ Park.prototype.calculateGrowth = function (numberOfYears) {
     potentialGrowthPerYear += dinosaur.offspringPerAnnum;
     dinosaurCount++;
   }
-  
+
 }
-
-
-
 
 module.exports = Park;

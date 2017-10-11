@@ -16,3 +16,8 @@ describe("Dinsaur", function () {
     assert.strictEqual(dinosaur.offspringPerAnnum, 2);
   })
 })
+
+//equal checks if objects can be the same value.
+//deepEqual checks if their values can be the same
+//strictEqual, that their types and values the same.
+//deepStrictEqual is for arrays and hash, checks the value
